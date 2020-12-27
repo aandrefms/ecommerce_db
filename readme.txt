@@ -5,3 +5,4 @@ e dados provenientes do e-commerce brasileiro chamado Olist.
 - O esquema escolhido foi o snow flakes (floco de neve) pela complexidade e forma como os dados foram distribuidos, afim
 de evitar redundância e melhorar desempenho
 - O script criará automaticamente o banco de dados (caso não exista), as tabelas (caso não existam) e inserirá os dados.
+- Para executar, abrir e iniciar o arquivo main.py e inserir a senha para o banco de dados
